@@ -1,0 +1,193 @@
+{
+  "Flavors": [
+    {
+      "Flavor": "Americone Dream",
+      "Calories per Serving": 380,
+      "About this Flavor": "Founded in fudge-covered waffle cones, this caramel-swirled concoction is the only flavor that gets a s'cream of approval from The Late Show host, Stephen Colbert. What's sweeter is this flavor supports charitable causes through The Stephen Colbert AmeriCone Dream Fund.",
+      "Ingredients": "Buttery Cinnamon Ice Cream with Churro Pieces & Crunchy Cinnamon Swirls",
+      "Allergens": "CONTAINS WHEAT, EGG, SOY AND MILK.",
+      "Ratings": 4.6,
+      "image": "americone-dream.png"
+    },
+    {
+      "Flavor": "Cherry Garcia",
+      "Calories per Serving": 340,
+      "About this Flavor": "We named this flavor in 1987 for the legendary American guitarist Jerry Garcia after one of our fans sent us the idea on a postcard, and it's been one of our top hits ever since. We use only pure cream to make the cherry ice cream smooth and sumptuous. Then we lace the ice cream with plump sweet cherries and dark chocolatey chunks. Enjoy!",
+      "Ingredients": "Cherry Ice Cream with Cherries & Fudge Flakes",
+      "Allergens": "CONTAINS EGG, MILK AND SOY.",
+      "Ratings": 4.6,
+      "image": "cherry-garcia.png"
+    },
+    {
+      "Flavor": "Caramel Chocolate Cheesecake",
+      "Calories per Serving": 380,
+      "About this Flavor": "In your cheesecake dreams, is it like you’re spooning through a world of caramel cheesecake ice cream swirled with chocolate cookies in a wonderland filled with chunks of cheesecake? Hello? You can wake up now…",
+      "Ingredients": "Caramel Cheesecake Ice Cream with Cheesecake Pieces & Chocolate Cookie Swirls",
+      "Allergens": "CONTAINS EGG, MILK, SOY AND WHEAT.",
+      "Ratings": 4.2,
+      "image": "caramel-chocolate-cheesecake.png"
+    },
+    {
+      "Flavor": "Chocolate Fudge Brownie",
+      "Calories per Serving": 350,
+      "About this Flavor": "This fudge-tastic phenomenon has been a part of our flavor family since 1991 & we’ve always used brownies from the Greyston Bakery in Yonkers, New York. Happy days!",
+      "Ingredients": "Chocolate Ice Cream with Fudge Brownies",
+      "Allergens": "CONTAINS EGG, MILK, AND WHEAT.",
+      "Ratings": 4,
+      "image": "chocolate-fudge-brownie.png"
+    },
+    {
+      "Flavor": "Chunky Monkey",
+      "Calories per Serving": 400,
+      "About this Flavor": "To come up with a flavor as fun as the name, we monkeyed around with bunches of test batches until we knew we had a winner. Simply put, we think it's the best majorly nutty-&-chocolatey-chunky ice cream gone bananas you'll ever go ape for. A final note, just in case you were wondering: this flavor contains no actual monkeys. That would be wrong...not to mention silly. Enjoy!",
+      "Ingredients": "Banana Ice Cream with Fudge Chunks & Walnuts",
+      "Allergens": "CONTAINS MILK, EGGS, WALNUTS AND SOY. MAY CONTAIN OTHER TREE NUTS.",
+      "Ratings": 4.5,
+      "image": "chunky-monkey.png"
+    },
+    {
+      "Flavor": "Half Baked",
+      "Calories per Serving": 370,
+      "About this Flavor": "Ben & Jerry’s is proud to partner with fellow B Corps Greyston(Opens in new window) & Rhino Bakeries(Opens in new window) to bring you half baked. The incredible stories behind both the fudge brownies & cookie dough make this a flavor that not only tastes good, but does good. ",
+      "Ingredients": "Chocolate & Vanilla Ice Creams mixed with Gobs of Chocolate Chip Cookie Dough & Fudge Brownies",
+      "Allergens": "CONTAINS MILK, EGGS, WHEAT AND SOY.",
+      "Ratings": 4.8,
+      "image": "half-baked.png"
+    },
+    {
+      "Flavor": "Milk & Cookies",
+      "Calories per Serving": 380,
+      "About this Flavor": "How do you take classic milk-&-cookie goodness to a whole 'nother level of greatness? We don’t really know what that means, but we know this flavor’s loaded with the most euphoric assortment of cookies we ever dunked, chunked & swirled in our ice cream.",
+      "Ingredients": "Vanilla Ice Cream with a Chocolate Cookie Swirl, Chocolate Chip & Chocolate Chocolate Chip Cookies",
+      "Allergens": "CONTAINS WHEAT, EGG, SOY AND MILK.",
+      "Ratings": 4.7,
+      "image": "milk-and-cookies.png"
+    },
+    {
+      "Flavor": "Phish Food",
+      "Calories per Serving": 390,
+      "About this Flavor": "“Ben was our neighbor through the woods & we're fond of ice cream. So we teamed up to create Phish Food®. A portion of our royalties from this flavor goes toward environmental efforts in Vermont's Lake Champlain Watershed. Enjoy!” - PHISH Certified Gluten-Free.",
+      "Ingredients": "Chocolate Ice Cream with Gooey Marshmallow Swirls, Caramel Swirls & Fudge Fish",
+      "Allergens": "CONTAINS EGG, MILK AND SOY.",
+      "Ratings": 4.8,
+      "image": "phish-food.png"
+    },
+    {
+      "Flavor": "Vanilla Caramel Fudge",
+      "Calories per Serving": 390,
+      "About this Flavor": "If you’ve been looking for reasons to try something chunkless, this container holds a Vanilla-rich, fudge-luscious & caramel-gooey pintful of them. Enjoy! Certified Gluten-Free",
+      "Ingredients": "Vanilla Ice Cream with a Chocolate Cookie Swirl, Chocolate Chip & Chocolate Chocolate Chip Cookies",
+      "Allergens": "CONTAINS EGG AND MILK.",
+      "Ratings": 4.7,
+      "image": "vanilla-caramel-fudge.png"
+    },
+    {
+      "Flavor": "Strawberry Cheesecake",
+      "Calories per Serving": 350,
+      "About this Flavor": "For strawberry cheesecake lovers who’ve always wanted to have their cheesecake & scoop it, too, we’ve created a flavor jam-packed with strawberry cheesecake-greatness & a fantastic graham-cracker swirl.",
+      "Ingredients": "Strawberry Cheesecake Ice Cream with Strawberries & a Thick Graham Cracker Swirl",
+      "Allergens": "CONTAINS EGG, MILK, SOY AND WHEAT.",
+      "Ratings": 4.2,
+      "image": "strawberry-cheesecake.png"
+    },
+    {
+      "Flavor": "Peanut Butter Cup",
+      "Calories per Serving": 460,
+      "About this Flavor": "We interrupt our regularly scheduled programming to remind you how much you love ice cream that’s perfectly peanut buttery & peanut butter cuppity at the same time.",
+      "Ingredients": "Peanut Butter Ice Cream with Peanut Butter Cups",
+      "Allergens": "CONTAINS EGG, MILK, PEANUTS AND SOY.",
+      "Ratings": 4.7,
+      "image": "peanut-butter-cup.png"
+    },
+    {
+      "Flavor": "Netflix & Chilll’d",
+      "Calories per Serving": 400,
+      "About this Flavor": "There’s something for everyone to watch on Netflix & flavors for everyone to enjoy from Ben & Jerry’s, so we’ve teamed up to bring you a chillaxing new creation that’s certain to satisfy any sweet or salty snack craving. It’s a flavorful world, and everyone is invited to grab a spoon.",
+      "Ingredients": "Peanut Butter Ice Cream with Sweet & Salty Pretzel Swirls & Fudge Brownies",
+      "Allergens": "CONTAINS EGG, MILK, PEANUTS, SOY AND WHEAT.",
+      "Ratings": 4.1,
+      "image": "netflix-chilld.png"
+    },
+    {
+      "Flavor": "Karamel Sutra",
+      "Calories per Serving": 370,
+      "About this Flavor": "Find your way to the ultimate ice cream experience with our Cores. Whether your primal urges lead you to the center of soft caramel or directly to the fudge chips, you’ll be in total control of your own ice cream destiny. Certified Gluten-Free.",
+      "Ingredients": "Chocolate & Caramel Ice Creams with Fudge Chips & a Soft Caramel Core",
+      "Allergens": "CONTAINS EGG, MILK AND SOY.",
+      "Ratings": 4.5,
+      "image": "karamel-sutra.png"
+    },
+    {
+      "Flavor": "Salted Caramel Core",
+      "Calories per Serving": 360,
+      "About this Flavor": "Find your way to the ultimate ice cream experience with our Cores. Whether your primal urges lead you to the center of salted caramel or directly to the blonde brownies, you’ll be in total control of your own ice cream destiny.",
+      "Ingredients": "Sweet Cream Ice Cream with Blonde Brownies & a Salted Caramel Core",
+      "Allergens": "CONTAINS EGG, MILK, SOY AND WHEAT.",
+      "Ratings": 4.1,
+      "image": "salted-caramel.png"
+    },
+    {
+      "Flavor": "New York Super Fudge Chunk",
+      "Calories per Serving": 410,
+      "About this Flavor": "In 1958, to make a name for ourselves in New York, we picked a New York kind of name and created a flavor packed with more kinds of chunkc than ever before. We figured if the flavor was euphoric in New York, it would be everywhere. It was, and it is. Certified Gluten-Free",
+      "Ingredients": "Chocolate Ice Cream with White & Dark Fudge Chunks, Pecans, Walnuts & Fudge-Covered Almonds",
+      "Allergens": "CONTAINS ALMOND, EGG, MILK, PECAN, SOY AND WALNUT.",
+      "Ratings": 4.8,
+      "image": "new-york-super-fudge.png"
+    },
+    {
+      "Flavor": "Churray for Churros",
+      "Calories per Serving": 380,
+      "About this Flavor": "When’s the best time to enjoy this cinnamony mix chock full of churros? Any time of day, from breakfast until bed, from now ‘til whenever. It's pretty churr-ific.",
+      "Ingredients": "Buttery Cinnamon Ice Cream with Churro Pieces & Crunchy Cinnamon Swirls",
+      "Allergens": "CONTAINS EGG, MILK, SOY AND WHEAT.",
+      "Ratings": 4.6,
+      "image": "churray-for-churros.png"
+    },
+    {
+      "Flavor": "Tiramisu",
+      "Calories per Serving": 390,
+      "About this Flavor": "There are so many layers to this mascarpone masterpiece, from the espresso-laced fudge flakes embedded in rich ganache topping to the captivating coffee character of the fudge swirls. We'd say this \"pick me up\" of a flavor is top tier-amisu!",
+      "Ingredients": "Mascarpone Ice Cream with Fudge Swirls & Shortbread Pieces Topped with Espresso Fudge Chunks & Chocolatey Ganache",
+      "Allergens": "CONTAINS WHEAT, EGG, PEANUTS, SOY AND MILK.",
+      "Ratings": 4.4,
+      "image": "tiramisu-topped.png"
+    },
+    {
+      "Flavor": "Gimme S’more",
+      "Calories per Serving": 410,
+      "About this Flavor": "It’s a gimme: there’s always room for s’more. And we’re pretty sure you’ll want to make s’more room in your freezer for this ‘shmallowy-rich, graham-good-‘n-chocolatey concoction now that it's full time flavor!.",
+      "Ingredients": "Toasted Marshmallow Ice Cream with Chocolate Cookie Swirls, Graham Cracker Swirls & Fudge Flakes",
+      "Allergens": "CONTAINS EGG, MILK, SOY AND WHEAT.",
+      "Ratings": 4.5,
+      "image": "gimme-smore.png"
+    },
+    {
+      "Flavor": "Honey Graham Latte",
+      "Calories per Serving": 390,
+      "About this Flavor": "If your caramel latte is a hug in a mug, this flavor is a hug in a ... scoop? Enjoy the cozy comfort of honey graham crackers and cinnamon with every scoop - it's a whole latte yum!",
+      "Ingredients": "Caramel Coffee Ice Cream with Honey Graham Cracker Swirls & Crunchy Cinnamon Swirls",
+      "Allergens": "CONTAINS WHEAT, EGG, SOY AND MILK.",
+      "Ratings": 5,
+      "image": "honey-graham-latte-ice-cream.png"
+    },
+    {
+      "Flavor": "Topped Mint",
+      "Calories per Serving": 440,
+      "About this Flavor": "Mint Ice Cream with Chocolate Cookie Swirls & Mint Chocolate Cookie Balls Topped with Chocolatey Ganache & Chocolate Cookies",
+      "Ingredients": "Our mint cookie medley had a moniker modification but will still top all your expectations. It's the same ganache-covered, cookie-swirled minty bliss, & still deserving of the ice cream chef's kiss.",
+      "Allergens": "CONTAINS EGG, MILK, SOY AND WHEAT. MAY CONTAIN PEANUTS AND TREE NUTS.",
+      "Ratings": 4.6,
+      "image": "topped-mint.png"
+    },
+    {
+      "Flavor": "Chubby Hubby",
+      "Calories per Serving": 470,
+      "About this Flavor": "Two tricksters convinced a co-worker this flavor really existed (it didn’t), then felt guilty & made him an actual batch packed with pretzels, peanut butter & fudge. He loved it, so did we, & the rest is history. Enjoy!",
+      "Ingredients": "Vanilla Malt Ice Cream with Peanutty Fudge-Covered Pretzels with Fudge & Peanut Buttery Swirls",
+      "Allergens": "CONTAINS EGG, MILK, PEANUTS, SOY AND WHEAT. MAY CONTAIN TREE NUTS.F22",
+      "Ratings": 4.4,
+      "image": "chubby-hubby.png"
+    }
+  ]
+}

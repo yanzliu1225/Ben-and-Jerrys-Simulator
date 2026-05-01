@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ben & Jerry’s Simulator</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Pixelify+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.160/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160/examples/jsm/"
+    }
+  }
+  </script>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="assets/images/favicon.png">
+</head>
+<body>
+
+  <div id="crosshair"></div>
+
+  <div id="hint">Press ENTER to continue</div>
+  <div id="exit-hint">Press ESC to Exit Simulator mode</div>
+  <div id="move-hint">Use W, A, S, D to move around</div>
+  <div id="musicToggle">🎵 CLICK to unlock music</div>
+  <div id="dialogue"></div>
+
+  <div id="fade-overlay"></div>
+
+  <div id="menuOverlay">
+    <div id="flavor-card" class="flavor-card">
+      <button id="prev-flavor" class="nav-arrow left">◀</button>
+
+      <div class="flavor-left">
+        <img id="flavor-img" src="" alt="Flavor">
+      </div>
+      
+      <div class="flavor-right">
+        <div id="flavor-rating" class="rating-tag"></div>
+        <h1 id="flavor-title" class="flavor-title"></h1>
+        <div class="calorie-box">
+          <b id="flavor-calories"></b> CAL per SERVING
+        </div>
+        <p id="flavor-desc" class="flavor-description"></p>
+        <div id="flavor-allergens" class="allergen-tags"></div>
+      </div>
+
+      <button id="next-flavor" class="nav-arrow right">▶</button>
+    </div>
+  </div>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>
