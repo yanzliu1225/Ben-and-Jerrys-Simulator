@@ -64,7 +64,7 @@ export function checkInteraction(camera) {
 }
 
 export function updateMovement() {
-  const speed = 0.8;
+  const speed = 1;
 
   if (controls && controls.isLocked) {
     if (keys.w) controls.moveForward(speed);
